@@ -146,7 +146,7 @@
         {
             "slug": "09-Random-Numbers",
             "title": "09-Random-Numbers",
-            "done": false,
+            "done": true,
             "path": "exercises/09-Random-Numbers",
             "translations": [
                 "es",
@@ -157,7 +157,7 @@
         {
             "slug": "10-Calling-Your-First-Function",
             "title": "10-Calling-Your-First-Function",
-            "done": false,
+            "done": true,
             "path": "exercises/10-Calling-Your-First-Function",
             "translations": [
                 "es",
@@ -168,7 +168,7 @@
         {
             "slug": "10.01-Creating-Your-First-Function",
             "title": "10.01-Creating-Your-First-Function",
-            "done": false,
+            "done": true,
             "path": "exercises/10.01-Creating-Your-First-Function",
             "translations": [
                 "es",
@@ -179,7 +179,7 @@
         {
             "slug": "11-Create-A-New-Function",
             "title": "11-Create-A-New-Function",
-            "done": false,
+            "done": true,
             "path": "exercises/11-Create-A-New-Function",
             "translations": [
                 "es",
@@ -190,7 +190,7 @@
         {
             "slug": "14-Rand-From-One-to-Six",
             "title": "14-Rand-From-One-to-Six",
-            "done": false,
+            "done": true,
             "path": "exercises/14-Rand-From-One-to-Six",
             "translations": [
                 "es",
@@ -201,7 +201,7 @@
         {
             "slug": "15-Your-First-Loop",
             "title": "15-Your-First-Loop",
-            "done": false,
+            "done": true,
             "path": "exercises/15-Your-First-Loop",
             "translations": [
                 "es",
@@ -212,7 +212,7 @@
         {
             "slug": "16-Create-A-For-Loop",
             "title": "16-Create-A-For-Loop",
-            "done": false,
+            "done": true,
             "path": "exercises/16-Create-A-For-Loop",
             "translations": [
                 "es",
@@ -223,7 +223,7 @@
         {
             "slug": "18-Random-Colors-Loop",
             "title": "18-Random-Colors-Loop",
-            "done": false,
+            "done": true,
             "path": "exercises/18-Random-Colors-Loop",
             "translations": [
                 "es",
@@ -234,7 +234,7 @@
         {
             "slug": "19-Looping-With-FizzBuzz",
             "title": "19-Looping-With-FizzBuzz",
-            "done": false,
+            "done": true,
             "path": "exercises/19-Looping-With-FizzBuzz",
             "translations": [
                 "es",
@@ -245,7 +245,7 @@
         {
             "slug": "20-Russian-Roulette",
             "title": "20-Russian-Roulette",
-            "done": false,
+            "done": true,
             "path": "exercises/20-Russian-Roulette",
             "translations": [
                 "es",
@@ -256,7 +256,7 @@
         {
             "slug": "21-The-Beatles",
             "title": "21-The-Beatles",
-            "done": false,
+            "done": true,
             "path": "exercises/21-The-Beatles",
             "translations": [
                 "es",
